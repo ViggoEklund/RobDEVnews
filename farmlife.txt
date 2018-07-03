@@ -1,3 +1,6 @@
+2018_07_03: fixed changelog on robdev.itch.io/build-fun
+
 New update 1.1
 added
 RobDEV News
+

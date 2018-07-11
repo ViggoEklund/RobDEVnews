@@ -1,5 +1,1 @@
-Wellcome to the new robdev news!
-
-2018_07_03: fixed changelog on -
-
-- robdev.itch.io/build-fun
+2018 07 11: New game is in devlopment called "boll"!s

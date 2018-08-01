@@ -1,5 +1,5 @@
-New Update beta 0.1.3 
-added 
-RobDEV News
-Fullscreen option
-apple 
+a new update beta 0.1.3.1
+
+added a new cursor
+added loading screen
+rd news fixes

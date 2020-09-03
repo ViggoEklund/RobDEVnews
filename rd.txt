@@ -1,1 +1,8 @@
-RobDEV Discord: d65KkWa
+New game in development named "Adventure of a Cube with a Sword!".
+
+New game released: Shont.
+ - a 2d shooter.
+ - PvE singeplayer mode.
+ - 2 Local player mode (pvp).
+ - Collect coins.
+ - Buy 2 NEW guns from the shop using your coins.
